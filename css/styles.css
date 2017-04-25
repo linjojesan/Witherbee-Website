@@ -1,0 +1,33 @@
+.jumbotron {
+background-image: url("http://www.mannington.com/-/media/Images/Product/Hardwood/HardwoodProductPage2.jpg");
+background-size: cover;
+color: #EFE0B9;
+border: solid;
+border-color: white;
+border-width: 1px;
+box-shadow: 2px 2px grey;
+text-shadow:2px 2px black;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.well.well-lg {  background: rgba(0, 0, 0, 0) url(images/banner.jpg) no-repeat scroll 0 0;
+    background-size: cover;
+    height: 565px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%; }
+
+    h4 {
+
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
